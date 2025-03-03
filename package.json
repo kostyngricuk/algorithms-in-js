@@ -1,0 +1,19 @@
+{
+  "name": "algorithms-in-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kostyngricuk/algorithms-in-js.git",
+  "author": "Kanstantsin Hrytsuk",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "eslint": "^9.21.0"
+  }
+}
