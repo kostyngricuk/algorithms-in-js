@@ -5,7 +5,8 @@ export default [
   {
     rules: {
       "no-unused-vars": "error",
-      "no-undef": "warn"
-    }
-  }
+      "no-undef": "warn",
+      "no-console": "warn",
+    },
+  },
 ];
